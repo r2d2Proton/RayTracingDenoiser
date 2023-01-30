@@ -1,5 +1,3 @@
-[submodule "Projects/External/MathLib"]
+[submodule "MathLib"]
 	path = Projects/External/MathLib
-	url = https://github.com/r2d2Proton/MathLib.git
-	branch = main
-	update = merge
+	url = https://github.com/r2d2Proton/MathLib
