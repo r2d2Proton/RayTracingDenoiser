@@ -1,5 +1,5 @@
-[submodule "External/MathLib"]
-	path = External/MathLib
-	url = https://github.com/r2d2Proton/MathLib.git
-	branch = main
+[submodule "External/sse2neon"]
+	path = External/sse2neon
+	url = https://github.com/DLTcollab/sse2neon.git
+	branch = master
 	update = merge
